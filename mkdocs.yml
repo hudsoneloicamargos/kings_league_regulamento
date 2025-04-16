@@ -1,0 +1,21 @@
+site_name: "Kings League Brasil News"
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: pink
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+    - scheme: slate
+      primary: blue
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+nav:
+  - É bom saber: index.md
+  - Regulamento: regulamento.md
+  
+  
