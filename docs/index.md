@@ -19,6 +19,6 @@
 > 💬 Ah! E aproveita pra conhecer também o projeto Kings League Brasil News, que reúne as últimas notícias, partidas e destaques da liga de forma automatizada. Um combo completo pra  quem é fã da parada! ⚡
 > Toda força que você puder dar, seja compartilhando ou apoiando, ajuda demais! 🙌
 > 
-> ☕ Curtiu o projeto? Se esse trabalho te ajudou, considere pagar um cafézinho pra manter a energia por aqui e incentivar o projeto continuar crescendo: [meu link de apoio aqui] 💙
+> ☕ Curtiu o projeto? Se esse trabalho te ajudou, considere pagar um cafézinho pra manter a energia por aqui e incentivar o projeto continuar crescendo: [chave pix 61991769889] 💙
 
 ---

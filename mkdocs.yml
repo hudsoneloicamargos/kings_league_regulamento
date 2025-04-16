@@ -3,8 +3,8 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: indigo
-      accent: pink
+      primary: black
+      accent: blue
       toggle:
         icon: material/weather-night
         name: Modo escuro
